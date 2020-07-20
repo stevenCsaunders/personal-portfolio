@@ -34,10 +34,10 @@ The site is for me. It is for gaining employment as a web developer and to showc
 
 ## Page List
 
-- Home Page
-- About Page
-- Contact Page
-- Case Study Page
+- [ ] Home Page
+- [ ] About Page
+- [ ] Contact Page
+- [ ] Case Study Page
 
 > ### Component List
 
